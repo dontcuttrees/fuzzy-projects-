@@ -1,0 +1,12 @@
+ANFIS (Adaptive Neuro-Fuzzy Inference System) combines fuzzy logic and neural networks.
+
+Fuzzy logic provides rule-based reasoning using linguistic variables such as Poor, Average, and Good.
+
+Neural networks help in learning by adjusting membership function parameters using training data.
+
+In this system:
+- Inputs are fuzzified
+- Rules are applied
+- Neural network optimizes parameters through training
+
+Thus, ANFIS improves prediction accuracy by combining human-like reasoning with machine learning.

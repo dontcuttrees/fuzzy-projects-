@@ -1,0 +1,7 @@
+Washing Machine Output:
+Input: Dirt=7, Load=8
+Output: Wash Time ≈ 48 minutes
+
+ANFIS Output:
+Input: 85, 80, 78
+Output: ≈ 2.4 (Average to Good)
